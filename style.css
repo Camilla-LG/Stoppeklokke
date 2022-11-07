@@ -6,8 +6,9 @@ html{
    height: auto;
    width: auto;
    text-align: center;
-   background-color: black;
+   background: linear-gradient(360deg, rgb(65, 80, 95) 0.00%, rgb(36, 37, 38) 100.00%);
    color: white;
+   font-variant-caps: all-petite-caps;
    user-select: none;
 }
 
